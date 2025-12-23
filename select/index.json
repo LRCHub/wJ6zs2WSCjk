@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Arthur's Theme (Best That You Can Do)",
+  "base_artist": "Christopher Cross",
+  "createdAt": "2025-12-23T17:40:42.107884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Arthur's Theme (Best That You Can Do)",
+      "artist": "paris match",
+      "has_synced": true,
+      "path": "select/01_Arthur's_Theme_(Best_That_You_Can_Do)_paris_match.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Arthur's Theme (Best That You Can Do)",
+      "artist": "Christopher Cross",
+      "has_synced": true,
+      "path": "select/02_Arthur's_Theme_(Best_That_You_Can_Do)_Christopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Arthur’s Theme (Best That You Can Do)",
+      "artist": "Christopher Cross",
+      "has_synced": true,
+      "path": "select/03_Arthur’s_Theme_(Best_That_You_Can_Do)_Christopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Arthur’s Theme (Best That You Can Do)",
+      "artist": "Christopher Cross",
+      "has_synced": true,
+      "path": "select/04_Arthur’s_Theme_(Best_That_You_Can_Do)_Christopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Arthur's Theme (Best That You Can Do)",
+      "artist": "Video • Christopher Cross",
+      "has_synced": true,
+      "path": "select/05_Arthur's_Theme_(Best_That_You_Can_Do)_Video_•_Christopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Arthur’s Theme (Best That You Can Do)",
+      "artist": "Christopher Cross",
+      "has_synced": true,
+      "path": "select/06_Arthur’s_Theme_(Best_That_You_Can_Do)_Christopher_Cross.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Arthur's Theme (Best That You Can Do)",
+      "artist": "Christopher Cross",
+      "has_synced": false,
+      "path": "select/pl_01_Arthur's_Theme_(Best_That_You_Can_Do)_Christopher_Cross.txt"
+    }
+  ]
+}
